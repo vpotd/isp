@@ -8,5 +8,6 @@
   * [1.4 Уровень сервисной границы \(bsr/bng\)](1-urovni-ierarkhii-sovremennykh-provaiderov/1.4-uroven-servisnoi-granicy-bsr-bng.md)
   * [1.5 Коммутаторы ядра сети \(csw\)](1-urovni-ierarkhii-sovremennykh-provaiderov/1.5-kommutatory-yadra-seti-csw.md)
 * [Виртуальные сети](virtualnye-seti/README.md)
-  * [Untitled](virtualnye-seti/untitled.md)
+  * [VLAN](virtualnye-seti/vlan.md)
+  * [QinQ](virtualnye-seti/untitled.md)
 
