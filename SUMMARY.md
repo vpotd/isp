@@ -14,4 +14,6 @@
   * [QinQ](virtualnye-seti/untitled.md)
 * [3 Инструменты работы](3-instrumenty-raboty.md)
 * [4 Концепции по настройке](3-koncepcii-po-nastroike.md)
+* [Планово-профилактические работы](planovo-profilakticheskie-raboty/README.md)
+  * [Перечень и графики проведения ППР](planovo-profilakticheskie-raboty/perechen-i-grafiki-provedeniya-ppr.md)
 
