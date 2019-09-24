@@ -16,4 +16,7 @@
 * [4 Концепции по настройке](3-koncepcii-po-nastroike.md)
 * [Планово-профилактические работы](planovo-profilakticheskie-raboty/README.md)
   * [Перечень и графики проведения ППР](planovo-profilakticheskie-raboty/perechen-i-grafiki-provedeniya-ppr.md)
+  * [Еженедельные ППР](planovo-profilakticheskie-raboty/ezhenedelnye-ppr/README.md)
+    * [Доступ в аппаратную](planovo-profilakticheskie-raboty/ezhenedelnye-ppr/dostup-v-apparatnuyu.md)
+* [Untitled](untitled.md)
 
