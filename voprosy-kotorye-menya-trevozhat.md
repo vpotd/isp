@@ -15,3 +15,5 @@
 
 ### 3 Опасны ли радиомосты Wi-Fi \(indoor\outdoor\) или Eband для здоровья?
 
+### 4 Почему для организации подключения по топологии Point-to-Point категорически запрещается использовать Ubiquiti NanoStation M2, Ubiquiti Loco M2?
+
