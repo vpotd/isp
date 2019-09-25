@@ -13,6 +13,7 @@
   * [Аналоговое и цифровое кабельное ТВ](2-obuchenie-sotrudnikov/analogovoe-i-cifrovoe-kabelnoe-tv.md)
   * [Беспроводное оборудование](2-obuchenie-sotrudnikov/besprovodnoe-oborudovanie.md)
   * [Сетевое оборудование и услуги ПД](2-obuchenie-sotrudnikov/setevoe-oborudovanie-i-uslugi-pd/README.md)
+    * [DPI](2-obuchenie-sotrudnikov/setevoe-oborudovanie-i-uslugi-pd/dpi.md)
     * [Резервирование шлюза по умолчанию. VRRP, SRRP](2-obuchenie-sotrudnikov/setevoe-oborudovanie-i-uslugi-pd/rezervirovanie-shlyuza-po-umolchaniyu.-vrrp-srrp.md)
   * [Телефония и голосовые услуги](2-obuchenie-sotrudnikov/telefoniya-i-golosovye-uslugi.md)
   * [Технический учет сети](2-obuchenie-sotrudnikov/tekhnicheskii-uchet-seti.md)
