@@ -69,23 +69,7 @@
 При использовании VRRP, нет необходимости поднимать на серверах динамические протоколы маршрудизации для оперативного изменения маршрута, Так же надо отметить, что протокол стандартный и поэтому совместим между оборудованием разных вендоров.  
 BSR01 настраивается как владелец IP адреса, поэтому в нормальной ситуации он всегда является мастером.
 
-| `###ALU###configure service vprn 100` `interface` `"Voip"                description "Voip-Servers"                address 188.187.250.30/27                vrrp 8` `owner                    backup 188.187.250.30                    message-interval 1                exit                sap lag-100:8.0` `create                    ingress                        qos 10                        filter ip 4106                    exit                    egress                        qos 10                        filter ip 4106                    exit                exit` |
-| :--- |
-
-
-| `###Juniper E-Series###interface` `tenGigabitEthernet 2/0/0.2` `vlan id 2 ip description NS-2 ip ignore-df-bit ip address 109.195.128.6` `255.255.255.248 no ip proxy-arp no ip redirects no ip unreachables ip policy secondary-input "PL-UPLINK-IN"` `statistics enabled merge ip vrrp 2` `virtual-address 109.195.128.6 ip vrrp 2` `enable` |
-| :--- |
-
-
 BSR02 как обычный VRRP router с дефолтным приоритетом 100, в дополнение мы разрешаем роутеру отвечать на ping и trace, когда он становится мастером.
-
-| `###ALU###configure service vprn 100` `interface` `"Voip"                description "Voip_Servers"                address 188.187.250.28/27                vrrp 8                    backup 188.187.250.30                    priority 100                    preempt                    ping-reply                    traceroute-reply                    message-interval 1                    no shutdown                exit                sap lag-100:8.0` `create                    ingress                        qos 10                        filter ip 4106                    exit                    egress                        qos 10                        filter ip 4106                    exit                exit` |
-| :--- |
-
-
-| `###Juniper E-Series###interface` `tenGigabitEthernet 2/0/0.2` `vlan id 2 ip description NS-2 ip ignore-df-bit ip address 109.195.128.5` `255.255.255.248 no ip proxy-arp no ip redirects no ip unreachables ip policy secondary-input "PL-UPLINK-IN"` `statistics enabled merge ip vrrp 2` `virtual-address 109.195.128.6 ip vrrp 2` `priority 100 ip vrrp 2` `enable` |
-| :--- |
-
 
 ### **Резервирование абонентских сессий на BSR**
 
@@ -108,17 +92,5 @@ BSR02 как обычный VRRP router с дефолтным приоритет
 
 Групповые интерфейсы на роутерах должны иметь одинаковые названия.
 
-| `###BSR01###configure service vprn 100` `subscriber-interface` `"IPoE"                address 94.181.178.251/24` `gw-ip-address 94.181.178.254                address 94.181.180.251/24` `gw-ip-address 94.181.180.254                address 94.181.191.77/24` `gw-ip-address 94.181.191.254                address 10.96.255.253/24` `gw-ip-address 10.96.255.254                group-interface` `"IPOE-LAG-21"` `create                    redundant-interface` `"RED-12"                    sap lag-21:4040.0` `create                        description "SRRP"                    exit                    srrp 21` `create                        message-path lag-21:4040.0                        priority 250                        no shutdown                    exit` |
-| :--- |
-
-
-| `###BSR02###configure service vprn 100` `subscriber-interface` `"IPoE"                address 94.181.178.252/24` `gw-ip-address 94.181.178.254                address 94.181.180.252/24` `gw-ip-address 94.181.180.254                address 94.181.191.211/24` `gw-ip-address 94.181.191.254                address 10.96.255.252/24` `gw-ip-address 10.96.255.254                group-interface` `"IPOE-LAG-21"` `create                    redundant-interface` `"RED-21"                    sap lag-21:4040.0` `create                    exit                    srrp 21` `create                        message-path lag-21:4040.0                        no shutdown                    exit` |
-| :--- |
-
-
 Для того чтобы исключить процедуру аутентификации, в случае смены виртуального роутера, между двумя BSR настраивается синхронизация состоянии абонентских сессий. От роутера, который выполняет роль мастера передается список всех абонентов \(со всеми свойствами\) резервируемого группового интерфейса на роутер, который находится в состоянии backup. На резервном роутере эти сессии находятся в состоянии ожидания и переходят в активное только после смены мастера.
-
-| `configure redundancy multi-chassis             peer 10.0.<MO>.2` `create                source-address 10.0.<MO>.1                sync                    srrp                    sub-mgmt ipoe                    port lag-21` `sync-tag "Tag-ASW01"` `create                    port lag-22` `sync-tag "Tag-ASW02"` `create                    port lag-23` `sync-tag "Tag-ASW03"` `create                    exit                    no shutdown                exit                no shutdown` |
-| :--- |
-
 
