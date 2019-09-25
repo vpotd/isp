@@ -13,3 +13,5 @@
 
 ![](.gitbook/assets/q1.png)
 
+### 3 Опасны ли радиомосты Wi-Fi \(indoor\outdoor\) или Eband для здоровья?
+
