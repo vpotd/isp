@@ -11,6 +11,8 @@
   * [!!!1.6 Магистраль сети \(backbone\)](1-urovni-ierarkhii-sovremennykh-provaiderov/1.6-magistral-seti-bsw-bgw.md)
 * [2 Обучение сотрудников](2-obuchenie-sotrudnikov/README.md)
   * [2.1 Службы и протоколы](2-obuchenie-sotrudnikov/virtualnye-seti/README.md)
+    * [ARP, RARP](2-obuchenie-sotrudnikov/virtualnye-seti/arp-rarp.md)
+    * [BGP](2-obuchenie-sotrudnikov/virtualnye-seti/bgp.md)
     * [2.2.1 VLAN](2-obuchenie-sotrudnikov/virtualnye-seti/vlan.md)
     * [2.2.2 QinQ](2-obuchenie-sotrudnikov/virtualnye-seti/untitled.md)
 * [3 Инструменты работы](3-instrumenty-raboty.md)
