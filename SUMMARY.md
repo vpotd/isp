@@ -22,4 +22,9 @@
   * [Еженедельные ППР](planovo-profilakticheskie-raboty/ezhenedelnye-ppr/README.md)
     * [Доступ в аппаратную](planovo-profilakticheskie-raboty/ezhenedelnye-ppr/dostup-v-apparatnuyu.md)
 * [Вопросы которые меня тревожат](voprosy-kotorye-menya-trevozhat.md)
+* [!!!Направления](napravleniya/README.md)
+  * [Активка](napravleniya/aktivka.md)
+  * [КТВ\ЦКТВ](napravleniya/ktv-cktv.md)
+  * [Магистраль](napravleniya/magistral.md)
+  * [Телефония](napravleniya/telefoniya.md)
 
