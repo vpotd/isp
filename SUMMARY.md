@@ -12,6 +12,7 @@
 * [2 Обучение сотрудников](2-obuchenie-sotrudnikov/README.md)
   * [Аналоговое и цифровое кабельное ТВ](2-obuchenie-sotrudnikov/analogovoe-i-cifrovoe-kabelnoe-tv.md)
   * [Беспроводное оборудование](2-obuchenie-sotrudnikov/besprovodnoe-oborudovanie/README.md)
+    * [Технология роуминга/бесшовного покрытия](2-obuchenie-sotrudnikov/besprovodnoe-oborudovanie/tekhnologiya-rouminga-besshovnogo-pokrytiya.md)
     * [Зона Френеля](2-obuchenie-sotrudnikov/besprovodnoe-oborudovanie/zona-frenelya.md)
   * [Сетевое оборудование и услуги ПД](2-obuchenie-sotrudnikov/setevoe-oborudovanie-i-uslugi-pd/README.md)
     * [Схема работы Wi-fi Hotspot в ядре](2-obuchenie-sotrudnikov/setevoe-oborudovanie-i-uslugi-pd/skhema-raboty-wi-fi-hotspot-v-yadre.md)
