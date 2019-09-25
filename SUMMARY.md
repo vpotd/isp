@@ -13,6 +13,7 @@
   * [Аналоговое и цифровое кабельное ТВ](2-obuchenie-sotrudnikov/analogovoe-i-cifrovoe-kabelnoe-tv.md)
   * [Беспроводное оборудование](2-obuchenie-sotrudnikov/besprovodnoe-oborudovanie.md)
   * [Сетевое оборудование и услуги ПД](2-obuchenie-sotrudnikov/setevoe-oborudovanie-i-uslugi-pd/README.md)
+    * [Схема работы Wi-fi Hotspot в ядре](2-obuchenie-sotrudnikov/setevoe-oborudovanie-i-uslugi-pd/skhema-raboty-wi-fi-hotspot-v-yadre.md)
     * [DPI](2-obuchenie-sotrudnikov/setevoe-oborudovanie-i-uslugi-pd/dpi.md)
     * [Радиомосты eBand](2-obuchenie-sotrudnikov/setevoe-oborudovanie-i-uslugi-pd/radiomosty-eband.md)
     * [Резервирование шлюза по умолчанию. VRRP, SRRP](2-obuchenie-sotrudnikov/setevoe-oborudovanie-i-uslugi-pd/rezervirovanie-shlyuza-po-umolchaniyu.-vrrp-srrp.md)
