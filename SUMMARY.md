@@ -23,6 +23,7 @@
   * [Технический учет сети](2-obuchenie-sotrudnikov/tekhnicheskii-uchet-seti.md)
   * [Эксплуатация и развитие магистральной сети](2-obuchenie-sotrudnikov/ekspluataciya-i-razvitie-magistralnoi-seti.md)
 * [3 Службы и протоколы](virtualnye-seti/README.md)
+  * [LoopBack Detection \(LBD\)](virtualnye-seti/loopback-detection-lbd.md)
   * [Traffic segmentation](virtualnye-seti/traffic-segmentation.md)
   * [ARP, RARP](virtualnye-seti/arp-rarp.md)
   * [BGP](virtualnye-seti/bgp.md)
