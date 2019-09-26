@@ -23,6 +23,7 @@
   * [Технический учет сети](2-obuchenie-sotrudnikov/tekhnicheskii-uchet-seti.md)
   * [Эксплуатация и развитие магистральной сети](2-obuchenie-sotrudnikov/ekspluataciya-i-razvitie-magistralnoi-seti.md)
 * [3 Протоколы, стандарты, службы и прочая теория](virtualnye-seti/README.md)
+  * [IGMP](virtualnye-seti/igmp.md)
   * [DHCP](virtualnye-seti/dhcp.md)
   * [ICMP](virtualnye-seti/icmp.md)
   * [DWDM](virtualnye-seti/dwdm.md)
