@@ -15,6 +15,7 @@
     * [Технология роуминга/бесшовного покрытия](2-obuchenie-sotrudnikov/besprovodnoe-oborudovanie/tekhnologiya-rouminga-besshovnogo-pokrytiya.md)
     * [Зона Френеля](2-obuchenie-sotrudnikov/besprovodnoe-oborudovanie/zona-frenelya.md)
   * [Сетевое оборудование и услуги ПД](2-obuchenie-sotrudnikov/setevoe-oborudovanie-i-uslugi-pd/README.md)
+    * [DWDM](2-obuchenie-sotrudnikov/setevoe-oborudovanie-i-uslugi-pd/dwdm.md)
     * [Схема работы Wi-fi Hotspot в ядре](2-obuchenie-sotrudnikov/setevoe-oborudovanie-i-uslugi-pd/skhema-raboty-wi-fi-hotspot-v-yadre.md)
     * [DPI](2-obuchenie-sotrudnikov/setevoe-oborudovanie-i-uslugi-pd/dpi.md)
     * [Радиомосты eBand](2-obuchenie-sotrudnikov/setevoe-oborudovanie-i-uslugi-pd/radiomosty-eband.md)
