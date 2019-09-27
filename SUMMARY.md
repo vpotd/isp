@@ -23,6 +23,7 @@
   * [Технический учет сети](2-obuchenie-sotrudnikov/tekhnicheskii-uchet-seti.md)
   * [Эксплуатация и развитие магистральной сети](2-obuchenie-sotrudnikov/ekspluataciya-i-razvitie-magistralnoi-seti.md)
 * [3 Протоколы, стандарты, службы и прочая теория](virtualnye-seti/README.md)
+  * [Multicast](virtualnye-seti/multicast.md)
   * [MPLS. Основные понятия. Принцип работы](virtualnye-seti/mpls.md)
   * [LACP & агрегация каналов](virtualnye-seti/lacp-and-agregaciya-kanalov.md)
   * [Internet Protocol \(IPv4\)](virtualnye-seti/internet-protocol-ipv4.md)
