@@ -54,3 +54,10 @@
   * [Магистраль](napravleniya/magistral.md)
   * [Телефония](napravleniya/telefoniya.md)
 
+## Python
+
+* [1 Установка](python/ustanovka.md)
+* [2 Первый сайт](python/pervyi-proekt.md)
+* [3 Администрирование Django](python/3-administrirovanie-django.md)
+* [4 Git](python/4-git.md)
+
