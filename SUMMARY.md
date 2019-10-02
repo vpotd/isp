@@ -45,6 +45,7 @@
   * [VLAN & QinQ](networks/virtualnye-seti/vlan.md)
 * [4 Инструменты работы](networks/3-instrumenty-raboty.md)
 * [5 Концепции по настройке](networks/3-koncepcii-po-nastroike/README.md)
+  * [Подключение 100+](networks/3-koncepcii-po-nastroike/podklyuchenie-100+.md)
   * [Выделить IP для радиоканала](networks/3-koncepcii-po-nastroike/vydelit-ip-dlya-radiokanala.md)
   * [Голосовые шлюзы](networks/3-koncepcii-po-nastroike/golosovye-shlyuzy/README.md)
     * [Cisco SPA122](networks/3-koncepcii-po-nastroike/golosovye-shlyuzy/cisco-spa122.md)
