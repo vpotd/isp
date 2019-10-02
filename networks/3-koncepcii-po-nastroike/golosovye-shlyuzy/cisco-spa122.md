@@ -46,7 +46,9 @@
 
 Далее на удаленном ПК открываем браузер и вводим:
 
-http://192.168.15.1/admin/resync?tftp://192.168.15.2/SPA122config2.xml&xuser=admin&xpassword=admin
+{% embed url="http://192.168.15.1/admin/resync?tftp://192.168.15.2/SPA122config2.xml&xuser=admin&xpassword=admin" %}
+
+Где SPA122config2.xml название нашего файла
 
 На tftpd должна пойти загрузка и шлюз должен перестать пинговаться
 
