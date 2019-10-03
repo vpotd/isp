@@ -47,7 +47,7 @@
 * [5 Концепции по настройке](networks/3-koncepcii-po-nastroike/README.md)
   * [Настройка нового Hotspot](networks/3-koncepcii-po-nastroike/nastroika-novogo-hotspot.md)
   * [Подключение 100+](networks/3-koncepcii-po-nastroike/podklyuchenie-100+.md)
-  * [Выделить IP для радиоканала](networks/3-koncepcii-po-nastroike/vydelit-ip-dlya-radiokanala.md)
+  * [Настройка радиоканала](networks/3-koncepcii-po-nastroike/vydelit-ip-dlya-radiokanala.md)
   * [Голосовые шлюзы](networks/3-koncepcii-po-nastroike/golosovye-shlyuzy/README.md)
     * [Cisco SPA122](networks/3-koncepcii-po-nastroike/golosovye-shlyuzy/cisco-spa122.md)
   * [Оптические приемники](networks/3-koncepcii-po-nastroike/opticheskie-priemniki/README.md)
