@@ -56,6 +56,7 @@
   * [portal](networks/3-instrumenty-raboty/portal.md)
   * [Jira](networks/3-instrumenty-raboty/jira.md)
 * [5 Концепции по настройке](networks/3-koncepcii-po-nastroike/README.md)
+  * [Выделить IP](networks/3-koncepcii-po-nastroike/vydelit-ip.md)
   * [Коммутаторы](networks/3-koncepcii-po-nastroike/kommutatory/README.md)
     * [!!!!D-Link DES 1228 1B](networks/3-koncepcii-po-nastroike/kommutatory/d-link-des-1228-1b.md)
     * [Прошивка Eltex 2428 \(DC\)](networks/3-koncepcii-po-nastroike/kommutatory/proshivka-eltex-2428-dc.md)

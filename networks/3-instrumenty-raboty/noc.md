@@ -2,7 +2,7 @@
 
 ### Калькуляторы
 
-![](../../.gitbook/assets/image%20%2840%29.png)
+![](../../.gitbook/assets/image%20%2841%29.png)
 
 ### Конфиги mku, asw, csw ,bsr, ctr, fw
 
@@ -10,7 +10,7 @@
 
 ### Пространства адресов, выдача
 
-![](../../.gitbook/assets/image%20%2852%29.png)
+![](../../.gitbook/assets/image%20%2853%29.png)
 
 
 
