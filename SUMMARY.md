@@ -67,12 +67,14 @@
     * [Cisco SPA122](networks/3-koncepcii-po-nastroike/golosovye-shlyuzy/cisco-spa122.md)
   * [Оптические приемники](networks/3-koncepcii-po-nastroike/opticheskie-priemniki/README.md)
     * [ОП Volius VS5793](networks/3-koncepcii-po-nastroike/opticheskie-priemniki/op-volius-vs5793.md)
-* [8 Triubleshooting](networks/8-triubleshooting/README.md)
+* [8 Troubleshooting](networks/8-triubleshooting/README.md)
   * [Где коммутатор?](networks/8-triubleshooting/gde-kommutator.md)
 * [7 Планово-профилактические работы](networks/planovo-profilakticheskie-raboty/README.md)
   * [Перечень и графики проведения ППР](networks/planovo-profilakticheskie-raboty/perechen-i-grafiki-provedeniya-ppr.md)
   * [Еженедельные ППР](networks/planovo-profilakticheskie-raboty/ezhenedelnye-ppr/README.md)
     * [Доступ в аппаратную](networks/planovo-profilakticheskie-raboty/ezhenedelnye-ppr/dostup-v-apparatnuyu.md)
+* [Tips & Tricks](networks/tips-and-tricks/README.md)
+  * [Untitled](networks/tips-and-tricks/untitled.md)
 
 ## Python
 
