@@ -60,6 +60,7 @@
     * [OMNY miniDome 2e](networks/3-koncepcii-po-nastroike/kamery/omny-minidome-2e.md)
   * [Выделить IP](networks/3-koncepcii-po-nastroike/vydelit-ip.md)
   * [Коммутаторы](networks/3-koncepcii-po-nastroike/kommutatory/README.md)
+    * [MAIPU MyPower S3100](networks/3-koncepcii-po-nastroike/kommutatory/maipu-mypower-s3100.md)
     * [!!!!D-Link DES 1228 1B](networks/3-koncepcii-po-nastroike/kommutatory/d-link-des-1228-1b.md)
     * [Eltex 2428 \(DC\)](networks/3-koncepcii-po-nastroike/kommutatory/proshivka-eltex-2428-dc.md)
   * [Настройка нового Hotspot](networks/3-koncepcii-po-nastroike/nastroika-novogo-hotspot.md)
