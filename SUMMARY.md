@@ -66,6 +66,8 @@
   * [Настройка нового Hotspot](networks/3-koncepcii-po-nastroike/nastroika-novogo-hotspot.md)
   * [Подключение 100+](networks/3-koncepcii-po-nastroike/podklyuchenie-100+.md)
   * [Настройка радиоканала](networks/3-koncepcii-po-nastroike/vydelit-ip-dlya-radiokanala.md)
+  * [Hotspot's](networks/3-koncepcii-po-nastroike/hotspots/README.md)
+    * [Huawei AP4050DN \(Прошивка Fit-&gt;Fat\)](networks/3-koncepcii-po-nastroike/hotspots/huawei-ap4050dn-proshivka-fit-greater-than-fat.md)
   * [Голосовые шлюзы](networks/3-koncepcii-po-nastroike/golosovye-shlyuzy/README.md)
     * [Cisco SPA122](networks/3-koncepcii-po-nastroike/golosovye-shlyuzy/cisco-spa122.md)
   * [Оптические приемники](networks/3-koncepcii-po-nastroike/opticheskie-priemniki/README.md)
